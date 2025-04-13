@@ -52,4 +52,4 @@ To empower the next generation by teaching them how to think like programmers, s
 ---
 
 > Made with love by Group 1 (IPMC)  
-> © 2024 MySCH. All rights reserved.
+> © 2024 msc-kids. All rights reserved.
