@@ -1,6 +1,6 @@
-# MySCH – Programming School for Children (Ages 9 to 15)
+# Programming School for Children (Ages 9 to 15)
 
-**MySCH** is a dynamic programming school designed for children aged **9 to 15**. We teach kids to code from day one through practical, hands-on projects in small group settings. Whether it's building games or solving problems, we make programming fun, educational, and future-ready.
+**MSC** is a dynamic programming school designed for children aged **9 to 15**. We teach kids to code from day one through practical, hands-on projects in small group settings. Whether it's building games or solving problems, we make programming fun, educational, and future-ready.
 
 ---
 
